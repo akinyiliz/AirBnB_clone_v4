@@ -158,8 +158,8 @@ Giggs Amadalo - [Github](https://github.com/AmadaloYoung) / [Twitter](https://tw
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-Elizabeth Odhiambo - [Github](https://github.com/akinyiliz) / [Twitter](https://twitter.com/iamliz_zie)
-Giggs Amadalo - [Github](https://github.com/AmadaloYoung)
+  Elizabeth Odhiambo - [Github](https://github.com/akinyiliz) / [Twitter](https://twitter.com/iamliz_zie)
+  Giggs Amadalo - [Github](https://github.com/AmadaloYoung)
 
 Second part of Airbnb: Joann Vuong
 ## License
